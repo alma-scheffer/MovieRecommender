@@ -19,5 +19,6 @@ Key results: <br>
 <br>
 :arrow_right: Create a machine learning algorithm with NearestNeighbors to find movies closest to the user's preferences<br>
 :arrow_right: Create an easy to use interface, to input the user's preferences and provide the list of movies recommended by the algorithm
-
+<br>
+<br>
 :star: How I contributed to the project? Created the KNN based recommendation modell, searched for an interface, learnt how to apply it and added more functionality, then requirements (you can also search based on genre, actor and year, not only movie title or ID). 
