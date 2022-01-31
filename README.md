@@ -2,11 +2,12 @@
 MovieRecommender Application based on KNN
 
 
-The MovieRecommender App was created during my WildCodeSchool training as a second group project:
-:rocket: The challenge was to return a list of recommended movies based on IDs or movie names chosen by a user. 
-:alarm_clock: We had 5 weeks to analyze the database, to code our solution and prepare a 10 minute long presentation (with demo of our application).
-:woman_technologist: We worked as a team of 4, each of us has been studied Data Analytics with WildCodeSchool since September 2021.
-
+The MovieRecommender App was created during my WildCodeSchool training as a second group project: <br>
+:rocket: The challenge was to return a list of recommended movies based on IDs or movie names chosen by a user. <br>
+:alarm_clock: We had 5 weeks to analyze the database, to code our solution and prepare a 10 minute long presentation (with demo of our application).<br>
+:woman_technologist: We worked as a team of 4, each of us has been studied Data Analytics with WildCodeSchool since September 2021.<br>
+<br>
+<br>
 Key results:
 :arrow_right: Independently explore the database;
 :arrow_right: Create an analysis, while answering the following questions:
