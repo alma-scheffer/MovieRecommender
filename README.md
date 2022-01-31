@@ -8,15 +8,15 @@ The MovieRecommender App was created during my WildCodeSchool training as a seco
 :woman_technologist: We worked as a team of 4, each of us has been studied Data Analytics with WildCodeSchool since September 2021.<br>
 <br>
 <br>
-Key results:
-:arrow_right: Independently explore the database;
-:arrow_right: Create an analysis, while answering the following questions:
+Key results: <br>
+:arrow_right: Independently explore the database;<br>
+:arrow_right: Create an analysis, while answering the following questions:<br>
 - Which countries produce the most films? 
 - Which actors are the most present? At what period? 
 - Does the average length of the films get longer or shorter over the years? 
 - Are the actors in TV series the same as in movies? What is the average age of the actors? 
-- Which films have the highest ratings? Do they share common characteristics?
-:arrow_right: Create a machine learning algorithm with NearestNeighbors to find movies closest to the user's preferences
+- Which films have the highest ratings? Do they share common characteristics?<br>
+:arrow_right: Create a machine learning algorithm with NearestNeighbors to find movies closest to the user's preferences<br>
 :arrow_right: Create an easy to use interface, to input the user's preferences and provide the list of movies recommended by the algorithm
 
 :star: How I contributed to the project? Created the KNN based recommendation modell, searched for an interface, learnt how to apply it and added more functionality, then requirements (you can also search based on genre, actor and year, not only movie title or ID). 
