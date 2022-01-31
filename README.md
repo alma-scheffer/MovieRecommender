@@ -16,6 +16,7 @@ Key results: <br>
 - Does the average length of the films get longer or shorter over the years? 
 - Are the actors in TV series the same as in movies? What is the average age of the actors? 
 - Which films have the highest ratings? Do they share common characteristics?<br>
+<br>
 :arrow_right: Create a machine learning algorithm with NearestNeighbors to find movies closest to the user's preferences<br>
 :arrow_right: Create an easy to use interface, to input the user's preferences and provide the list of movies recommended by the algorithm
 
